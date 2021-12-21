@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//KostiantynKaluhin.github.io/goit-react-hw-01-components/static/css/main.16f4560e.css",
+    "main.js": "//KostiantynKaluhin.github.io/goit-react-hw-01-components/static/js/main.fb962476.js",
+    "index.html": "//KostiantynKaluhin.github.io/goit-react-hw-01-components/index.html",
+    "main.16f4560e.css.map": "//KostiantynKaluhin.github.io/goit-react-hw-01-components/static/css/main.16f4560e.css.map",
+    "main.fb962476.js.map": "//KostiantynKaluhin.github.io/goit-react-hw-01-components/static/js/main.fb962476.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16f4560e.css",
+    "static/js/main.fb962476.js"
+  ]
+}
